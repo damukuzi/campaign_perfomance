@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = C:/Users/cthru/Documents/psnl_projects/10academy/remote_data
