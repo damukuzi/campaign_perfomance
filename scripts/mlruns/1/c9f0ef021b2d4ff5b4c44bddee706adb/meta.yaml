@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cthru/Documents/psnl_projects/10academy/campaign_perfomance/scripts/mlruns/1/c9f0ef021b2d4ff5b4c44bddee706adb/artifacts
+end_time: 1627139270487
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c9f0ef021b2d4ff5b4c44bddee706adb
+run_uuid: c9f0ef021b2d4ff5b4c44bddee706adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627139269244
+status: 3
+tags: []
+user_id: cthru
